@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <id>1</id>
+        <Course Name>Algorithms</Course Name>
+        <Instructor>Scott, Austin C.</Instructor>
+        <Course duration>8 weeks</Course duration>
+        <Course time>2H</Course time>
+        <Location>Hall1</Location>
+    </row>
+    <row>
+        <id>2</id>
+        <Course Name>Number Theory.</Course Name>
+        <Instructor>Rojas, Yoshio N.</Instructor>
+        <Course duration>10 weeks</Course duration>
+        <Course time>3H</Course time>
+        <Location>Hall4</Location>
+    </row>
+    <row>
+        <id>3</id>
+        <Course Name>Computer Engineering</Course Name>
+        <Instructor>Farley, Jamal C.</Instructor>
+        <Course duration>12 weeks</Course duration>
+        <Course time>1.5H</Course time>
+        <Location>Hall2</Location>
+    </row>
+</root>
